@@ -8,7 +8,7 @@
 
 ## Benodigde hardware en software
 
-* Een Roche Accu-Chek Combo pomp (elke firmware is geschikt).
+* Een Roche Accu-Chek Insight pomp (elke firmware is geschikt).
 
 Opmerking: AAPS zal informatie altijd opslaan in het **eerste basaal profiel in de pomp**.
 
